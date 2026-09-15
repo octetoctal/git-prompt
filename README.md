@@ -1,1 +1,1 @@
-`git-prompt`
+# git-prompt
