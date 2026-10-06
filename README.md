@@ -1,2 +1,1 @@
 # Git Prompt
-CLI Tool
